@@ -1,0 +1,36 @@
+Processing: Clase 1
+
+Nicolás Troncoso. (Algo de Fibra de vidrio)
+
+Trabaja con Boyas (¿Camilo, Pablo, Daniel?)
+Libro: "The Nature of Code"
+
+Ver Diapos:
+Nivel de programacion
+Nivel Bajo: Dificil de aprender -> Mas util para tareas especificas.
+Nivel Alto: Facil de aprender -> Las herramientas estan creadas y se utilizan por completo.
+
+Feltron Report | Ver
+
+Fractales = Recursivos
+
+Proyecto: IBM Sports -> Visualizacion con Datos
+
+Proyecto: Silenc (Palabras -> Silenciosas -> Filtro Rojo)
+
+Openframe.io
+
+Arduino -> Datos Dinamicos (Processing)
+
+___________________
+
+
+Existen los Commit y Repositorios
+
+Commit: 2 Commit -> Curso (Entregas) y Carpetas (Pruebas)
+
+Repositorios: Puede estar en Inet, PC o en ambas (La idea es que esten en los 2, para tener un backup)
+
+
+
+
